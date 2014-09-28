@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerOddsCalculator", "PokerOddsCalculator\PokerOddsCalculator.csproj", "{B9128EAC-8BC1-47A3-9FAE-75C425BE416B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poker Hand Evaluator Tests", "Poker Hand Evaluator Tests\Poker Hand Evaluator Tests.csproj", "{A21CAA60-74C8-49C9-B34B-AA230016115F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7376FAAA-7D26-45D1-ACDD-D6B580928A18}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = PokerOddsCalculator.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9128EAC-8BC1-47A3-9FAE-75C425BE416B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B9128EAC-8BC1-47A3-9FAE-75C425BE416B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{B9128EAC-8BC1-47A3-9FAE-75C425BE416B}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{B9128EAC-8BC1-47A3-9FAE-75C425BE416B}.Debug|x86.ActiveCfg = Debug|x86
+		{B9128EAC-8BC1-47A3-9FAE-75C425BE416B}.Debug|x86.Build.0 = Debug|x86
+		{B9128EAC-8BC1-47A3-9FAE-75C425BE416B}.Release|Any CPU.ActiveCfg = Release|x86
+		{B9128EAC-8BC1-47A3-9FAE-75C425BE416B}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{B9128EAC-8BC1-47A3-9FAE-75C425BE416B}.Release|Mixed Platforms.Build.0 = Release|x86
+		{B9128EAC-8BC1-47A3-9FAE-75C425BE416B}.Release|x86.ActiveCfg = Release|x86
+		{B9128EAC-8BC1-47A3-9FAE-75C425BE416B}.Release|x86.Build.0 = Release|x86
+		{A21CAA60-74C8-49C9-B34B-AA230016115F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A21CAA60-74C8-49C9-B34B-AA230016115F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A21CAA60-74C8-49C9-B34B-AA230016115F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{A21CAA60-74C8-49C9-B34B-AA230016115F}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{A21CAA60-74C8-49C9-B34B-AA230016115F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A21CAA60-74C8-49C9-B34B-AA230016115F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A21CAA60-74C8-49C9-B34B-AA230016115F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A21CAA60-74C8-49C9-B34B-AA230016115F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{A21CAA60-74C8-49C9-B34B-AA230016115F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{A21CAA60-74C8-49C9-B34B-AA230016115F}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
